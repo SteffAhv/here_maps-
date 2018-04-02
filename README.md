@@ -1,6 +1,6 @@
 # VIVE EXTREME APP
 
-![logo](assets/images/preview.png)
+![logo](assets/images/preview.PNG)
 
 ### **OBJETIVO**
 Aplicación movil, orientada a los amantes de las actividades outdoor, que permita trackear rutas y brindar información relevante de los diferentes departamentos del Perú.
