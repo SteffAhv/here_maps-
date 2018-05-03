@@ -33,12 +33,22 @@ Aplicación movil, orientada a los amantes de las actividades outdoor, permite t
 #### 1.1 Research Cualitativo
 ##### Entrevistas a Usuarios
 
-Entrevistamos a usuarios interesados en realizar actividades de aventura, con el fin de conocer un poco más sobre todo el proceso de realizar una ruta outdoor.
+Entrevistamos a usuarios interesados en realizar actividades de aventura, con el fin de conocer más sobre todo lo que implica realizar rutas outdoor en nuestro país.
 
 [Guía de Entrevista](https://docs.google.com/document/d/1d3CMoJnxAI2V1TIg_0NI9_p1XIugrvIn4AILy7kCLC0/edit?usp=sharing)
 
 
 #### 1.2 Research Cuántitativo
+
+Buscamos indicadores y datos registrados en la web, que nos pudieran brindar una mejor perspectiva de nuestro público objetivo.
+
+##### DATOS RELEVANTES
+ - El Perú recibe turistas experimentados en turismo de aventura, especialmente en **trekking (89%)**,
+lo cual lo hace exigente ante cualquier oferta. Es más, un segmento interesante de ellos (30%) ha
+viajado en anteriores oportunidades a nuestro país para realizar turismo de aventura.
+
+![bars](assets/images/bars_map.PNG)
+
 ##### Benchmark 
 
 ## 2.SÍNTESIS
