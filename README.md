@@ -3,10 +3,12 @@
 ![logo](assets/images/preview.PNG)
 
 ### **OBJETIVO**
-Aplicación movil, orientada a los amantes de las actividades outdoor, que permita trackear rutas y brindar información relevante de los diferentes departamentos del Perú.
+Aplicación movil, orientada a los amantes de las actividades outdoor, permite trackear rutas y brindar información relevante de los diferentes destinos turísticos del Perú.
 
 ### **REQUERIMIENTOS**
-   [Ver aquí](https://drive.google.com/drive/folders/1vrjQirb_UD4SAgtMfYJBXD4lWBFbcAFF)
+   [Ver aquí](https://drive.google.com/file/d/1GNGlul4f9GDqBRn-mbMdxyo7wlBGFj35/view?usp=sharing)
+   
+   A TENER EN CUENTA: El reto asignado fue tanto para equipos front-end y ux. Por consiguiente en este caso el entregable final de este proyecto es un prototipo(high-fidelity).
 
 
 ### **REFERENCIAS**
@@ -33,7 +35,7 @@ Aplicación movil, orientada a los amantes de las actividades outdoor, que permi
 
 Entrevistamos a usuarios interesados en realizar actividades de aventura, con el fin de conocer un poco más sobre todo el proceso de realizar una ruta outdoor.
 
-[Guia de Entrevista]()
+[Guía de Entrevista](https://docs.google.com/document/d/1d3CMoJnxAI2V1TIg_0NI9_p1XIugrvIn4AILy7kCLC0/edit?usp=sharing)
 
 
 #### 1.2 Research Cuántitativo
