@@ -49,6 +49,7 @@ viajado en anteriores oportunidades a nuestro país para realizar turismo de ave
 
 ![bars](assets/images/bars_map.PNG)
 
+Fuente: [Promperú](https://www.promperu.gob.pe/TurismoIN/Uploads/temp/Uploads_mercados_y_segmentos_segmentos_1005_Publicacion-Perfil-del-Turista-de-Aventura.pdf)
 ##### Benchmark 
 
 ## 2.SÍNTESIS
