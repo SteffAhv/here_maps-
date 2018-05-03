@@ -8,7 +8,7 @@ Aplicación movil, orientada a los amantes de las actividades outdoor, permite t
 ### **REQUERIMIENTOS**
    [Ver aquí](https://drive.google.com/file/d/1GNGlul4f9GDqBRn-mbMdxyo7wlBGFj35/view?usp=sharing)
    
-   A TENER EN CUENTA: El reto asignado fue tanto para equipos front-end y ux. Por consiguiente en este caso el entregable final de este proyecto es un prototipo(high-fidelity).
+   A TENER EN CUENTA: El reto asignado fue tanto para equipos Front-end y UX. Por consiguiente, en este caso el entregable final de este proyecto es un prototipo (high-fidelity).
 
 
 ### **REFERENCIAS**
@@ -40,3 +40,11 @@ Entrevistamos a usuarios interesados en realizar actividades de aventura, con el
 
 #### 1.2 Research Cuántitativo
 ##### Benchmark 
+
+## 2.SÍNTESIS
+## 3.IDEACIÓN
+## 4.FLUJO DE LA APLICACIÓN
+## 5.DEMO
+Prototipo Versión 01: [Ver](https://marvelapp.com/5d52846)
+
+Prototipo Versión Final: [Ver](https://marvelapp.com/6af43i3/screen/42130117)
